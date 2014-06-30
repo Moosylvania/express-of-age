@@ -1,9 +1,9 @@
 {
   "name": "express-of-age",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Age Gate Middleware for Express.js",
   "main": "index.js",
-  "scripts": {    
+  "scripts": {
   },
   "repository": {
     "type": "git",
