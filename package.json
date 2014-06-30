@@ -1,0 +1,28 @@
+{
+  "name": "express-of-age",
+  "version": "0.0.0",
+  "description": "Age Gate Middleware for Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Moosylvania/express-of-age.git"
+  },
+  "keywords": [
+    "cookie",
+    "agegate",
+    "middleware",
+    "express"
+  ],
+  "author": "Joe Madden",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Moosylvania/express-of-age/issues"
+  },
+  "homepage": "https://github.com/Moosylvania/express-of-age",
+  "dependencies": {
+    "moment": "^2.7.0"
+  }
+}
