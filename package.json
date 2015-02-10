@@ -1,6 +1,6 @@
 {
   "name": "express-of-age",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Age Gate Middleware for Express.js",
   "main": "index.js",
   "scripts": {
